@@ -1,0 +1,11 @@
+{
+  "name": "number_garden",
+  "version": "1.0.0",
+  "description": "Embeddable game UI: board, seed tray, interaction draft and feedback. Emits commands; never persists or decides outcomes.",
+  "main": "Index.ets",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "garden_core": "file:../garden_core"
+  }
+}

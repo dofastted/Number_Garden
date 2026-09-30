@@ -1,0 +1,66 @@
+Installing pnpm@10.28.2...
+
+added 1 package in 12s
+Pnpm install success.
+> hvigor [32mFinished :entry:clean... after 3 ms [39m
+> hvigor [32mFinished :garden_core:clean... after 2 ms [39m
+> hvigor [32mFinished :number_garden:clean... after 2 ms [39m
+> hvigor [32mFinished :entry:default@PreBuild... after 247 ms [39m
+> hvigor [32mFinished :garden_core:default@PreBuild... after 188 ms [39m
+> hvigor [32mFinished :number_garden:default@PreBuild... after 66 ms [39m
+> hvigor [32mFinished :entry:default@CreateModuleInfo... after 2 ms [39m
+> hvigor [32mFinished :entry:default@GenerateMetadata... after 15 ms [39m
+> hvigor [32mFinished :entry:default@PreCheckSyscap... after 1 ms [39m
+> hvigor [32mFinished :entry:default@GeneratePkgContextInfo... after 36 ms [39m
+> hvigor [32mFinished :entry:default@GeneratePkgSdkInfo... after 26 ms [39m
+> hvigor [32mFinished :entry:default@ProcessIntegratedHsp... after 1 ms [39m
+> hvigor [32mFinished :garden_core:default@CreateHarBuildProfile... after 5 ms [39m
+> hvigor [32mFinished :garden_core:default@ConfigureCmake... after 1 ms [39m
+> hvigor [32mFinished :garden_core:default@MergeProfile... after 13 ms [39m
+> hvigor [32mFinished :entry:default@SyscapTransform... after 8 ms [39m
+> hvigor [32mFinished :entry:default@ProcessRouterMap... after 28 ms [39m
+> hvigor [32mFinished :entry:default@ProcessShareConfig... after 17 ms [39m
+> hvigor [32mFinished :entry:default@ProcessStartupConfig... after 12 ms [39m
+> hvigor [32mFinished :number_garden:default@CreateHarBuildProfile... after 4 ms [39m
+> hvigor [32mFinished :garden_core:default@BuildNativeWithCmake... after 1 ms [39m
+> hvigor [32mFinished :number_garden:default@MergeProfile... after 19 ms [39m
+> hvigor [32mFinished :entry:default@GenerateLoaderJson... after 91 ms [39m
+> hvigor [32mFinished :entry:default@CreateBuildProfile... after 14 ms [39m
+> hvigor [32mFinished :number_garden:default@ConfigureCmake... after 1 ms [39m
+> hvigor [32mFinished :garden_core:default@BuildNativeWithNinja... after 12 ms [39m
+> hvigor [32mFinished :entry:default@MergeProfile... after 47 ms [39m
+> hvigor [32mFinished :number_garden:default@BuildNativeWithCmake... after 1 ms [39m
+> hvigor [32mFinished :garden_core:default@ProcessLibs... after 23 ms [39m
+> hvigor [32mFinished :entry:default@MakePackInfo... after 25 ms [39m
+> hvigor [32mFinished :entry:default@ProcessProfile... after 148 ms [39m
+> hvigor [32mFinished :entry:default@ConfigureCmake... after 1 ms [39m
+> hvigor [32mFinished :garden_core:default@DoNativeStrip... after 31 ms [39m
+> hvigor [32mFinished :entry:default@ProcessResource... after 21 ms [39m
+> hvigor [32mFinished :entry:default@BuildNativeWithCmake... after 1 ms [39m
+> hvigor [32mFinished :number_garden:default@BuildNativeWithNinja... after 9 ms [39m
+> hvigor [32mFinished :entry:default@CompileResource... after 544 ms [39m
+> hvigor [32mFinished :number_garden:default@ProcessLibs... after 21 ms [39m
+> hvigor [32mFinished :entry:default@BuildJS... after 54 ms [39m
+> hvigor [32mFinished :number_garden:default@DoNativeStrip... after 37 ms [39m
+> hvigor [32mFinished :entry:default@BuildNativeWithNinja... after 15 ms [39m
+> hvigor [32mFinished :entry:default@ProcessLibs... after 53 ms [39m
+> hvigor [32mFinished :entry:default@DoNativeStrip... after 22 ms [39m
+> hvigor [32mFinished :entry:default@CacheNativeLibs... after 47 ms [39m
+> hvigor [33mWARN: [33mWARN: [33m[33mArkTS:WARN File: /mnt/d/game-code/Number_Garden/entry/src/main/ets/entryability/EntryAbility.ets:9:42
+ Function may throw exceptions. Special handling is required.
+[39m[39m
+[39m
+> hvigor [32mFinished :entry:default@CompileArkTS... after 27 s 861 ms [39m
+> hvigor [32mFinished :entry:default@GeneratePkgModuleJson... after 19 ms [39m
+> hvigor [32mFinished :entry:default@ProcessCompiledResources... after 4 ms [39m
+> hvigor [32mFinished :entry:default@PackageHap... after 772 ms [39m
+> hvigor [32mFinished :entry:default@PackingCheck... after 64 ms [39m
+> hvigor [33mWARN: Will skip sign 'hos_hap'. No signingConfigs profile is configured in current project.
+             If needed, configure the signingConfigs in /mnt/d/game-code/Number_Garden/build-profile.json5.[39m
+> hvigor [32mFinished :entry:default@SignHap... after 9 ms [39m
+> hvigor [32mFinished :entry:default@CollectDebugSymbol... after 15 ms [39m
+> hvigor [32mFinished :entry:assembleHap... after 1 ms [39m
+> hvigor [32mBUILD SUCCESSFUL in 1 min 25 s 130 ms [39m
+
+52 tasks in total: 52 executed, 0 up-to-date
+EXIT=0

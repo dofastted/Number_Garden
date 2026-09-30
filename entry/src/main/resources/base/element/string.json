@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "数对花园原生宿主"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "数对花园"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "数对花园"
+    }
+  ]
+}

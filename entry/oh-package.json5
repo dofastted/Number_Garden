@@ -1,0 +1,12 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "Native Stage host: navigation, settings, lifecycle, platform adapters and transactional saves.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "garden_core": "file:../garden_core",
+    "number_garden": "file:../number_garden"
+  }
+}

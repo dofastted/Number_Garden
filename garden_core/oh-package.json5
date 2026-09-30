@@ -1,0 +1,9 @@
+{
+  "name": "garden_core",
+  "version": "1.0.0",
+  "description": "Pure rules layer: move validation, state transitions, undo, solver and port interfaces. No ArkUI, storage or media.",
+  "main": "Index.ets",
+  "author": "",
+  "license": "",
+  "dependencies": {}
+}
